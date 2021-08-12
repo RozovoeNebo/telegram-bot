@@ -3,3 +3,9 @@ node_modules/
 
 # Environment.
 .env
+
+# Dist.
+dist/
+
+# VSCode.
+.vscode
